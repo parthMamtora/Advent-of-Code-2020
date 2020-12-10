@@ -72,6 +72,3 @@ for i in range(len(key_list)):
 print(count)
 
 
-
-
-
